@@ -1,5 +1,9 @@
 # CS3398--Europa--S2018
 
+
+Website works, though isn't fully optimized or working. It opens up, and some of the links work.
+
+
 Supercharged is currently in its alpha state:
 
 Version 0.0.0
