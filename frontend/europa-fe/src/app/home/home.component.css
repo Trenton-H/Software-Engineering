@@ -1,0 +1,17 @@
+.carousel .item img {
+  max-height: 768px;
+  min-width: auto;
+}
+
+.jumbotron { 
+  background-color: #efefef;
+}
+
+.carousel-caption {
+   right: auto;
+   left: 10%;
+}
+
+h1 {
+   font-family: 'Open Sans Condensed', sans-serif;
+}
